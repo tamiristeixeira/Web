@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Poppins:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Poppins:wght@700&display=swap');
+ 
+body{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+}
+
+.ump{
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: #DCFCE7;
+    color: #22C55E;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px ;
+    height: 22px;
+    width: 74px;
+    border-radius: 36px;
+    padding: 2px 8px 2px 8px;
+    gap: 2px;
+}
+
+.h1{
+   
+    font-family: 'Poppins';
+    color: #2A3342;
+    width: 450px;
+    height: 180px;
+    top: 38px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -2%;
+}
+
+.doisp{
+    font-family: 'Poppins';
+    color: #556987;
+    width: 456px;
+    height: 120px;
+    top: 250px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.l {
+    font-family: 'Poppins';
+    text-align: center;
+    background-color:#22C55E;
+    color: #F0FDF4;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px ;
+    height: 128px;
+    width: 46px;
+    border-radius: 6px;
+    padding: 12px 18px;
+    top: 395px;
+    gap: 8px;
+    text-decoration: none;
+}
+div{
+    padding: 30px;
+}
+

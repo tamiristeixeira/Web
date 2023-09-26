@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    background-color: lightgray;
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+    gap: 10px;
+}
+
+.box{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+
